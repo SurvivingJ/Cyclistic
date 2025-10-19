@@ -1,4 +1,5 @@
 <img width="500" height="500" alt="cyclistic_logo" src="https://github.com/user-attachments/assets/59cf21de-06dd-4f34-93ae-2caa89cdf2e8" />
+
 # Coursera Capstone: Cyclistic Bike-Share Analysis
 
 This repository contains the analysis for the Google Data Analytics Capstone project (course hosted on Coursera), focusing on the Cyclistic bike-share case study.
