@@ -1,4 +1,6 @@
-<img width="500" height="500" alt="cyclistic_logo" src="https://github.com/user-attachments/assets/59cf21de-06dd-4f34-93ae-2caa89cdf2e8" />
+<p align="center">
+  <img width="500" height="500" alt="cyclistic_logo" src="https://github.com/user-attachments/assets/59cf21de-06dd-4f34-93ae-2caa89cdf2e8">
+</p>
 
 # Coursera Capstone: Cyclistic Bike-Share Analysis
 
